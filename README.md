@@ -2,4 +2,4 @@
 
 Create presentations using Gatsby, React & Markdown. Inspired by Guillermo Rauch’s [deck on Next.js](https://deck.now.sh/).
 
-* [Demo]()
+* [Demo](https://awesome-albattani-9391c5.netlify.com)
