@@ -1,5 +1,5 @@
 # "Design Quotes and Inspiration" Slide Presentation
 
-Create presentations using Gatsby, React & Markdown. Inspired by Guillermo Rauch’s [deck on Next.js](https://deck.now.sh/).
+Presentations made using Gatsby, React & Markdown. 
 
 * [Demo](https://awesome-albattani-9391c5.netlify.com)
