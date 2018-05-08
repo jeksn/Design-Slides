@@ -26,9 +26,6 @@ module.exports = {
         postCssPlugins: [],
         precision: 8
       }
-    },
-    {
-      pathPrefix: `/Design-Slides`
     }
   ]
 };
